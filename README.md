@@ -4,7 +4,7 @@
 <li>DataService</li>
 <li>Control and Interface</li>
 
-![alt tag](https://msdnshared.blob.core.windows.net/media/2016/06/entityframework.png) <br/>
+![alt tag](https://lgitsmart.files.wordpress.com/2014/10/nuget-logo-2.png) <br/>
 <h3>3 logic layers:</h3>
 <li>Model (business layer)</li>
 <li>View (display layer)</li>
