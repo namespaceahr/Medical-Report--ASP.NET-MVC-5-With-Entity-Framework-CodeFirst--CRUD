@@ -1,0 +1,12 @@
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\DataService.dll.config
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\DataService.dll
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\DataService.pdb
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\EntityFramework.dll
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\EntityFramework.xml
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\obj\Debug\DataService.csprojResolveAssemblyReference.cache
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\obj\Debug\DataService.dll
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\obj\Debug\DataService.pdb
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\obj\Debug\DataService.Migrations.InitialCreate.resources
+C:\Users\ahrla\onedrive\documents\visual studio 2015\Projects\MedicalReport\DataService\obj\Debug\DataService.csproj.GenerateResource.Cache
